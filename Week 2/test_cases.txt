@@ -1,0 +1,11 @@
+Valid Inputs:
+Input: 95 → Output: A
+Input: 82 → Output: B
+Input: 74 → Output: C
+Input: 61 → Output: D
+Input: 45 → Output: F
+
+Invalid Inputs:
+-105 → Error
+150 → Error
+abc → Error
