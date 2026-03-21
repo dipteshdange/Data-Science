@@ -63,3 +63,29 @@ From this project I learned:
 ## Screenshot
 
 A screenshot of the program running is included in this repository.
+
+# Week 2
+# Student Grade Calculator 🎓
+
+This Python program calculates student grades based on marks.
+
+## Features
+- Input validation (0–100)
+- Grade calculation using if-elif-else
+- Encouraging messages
+- Error handling
+- Functions used for clean code
+
+## Grading System
+- A: 90–100
+- B: 80–89
+- C: 70–79
+- D: 60–69
+- F: Below 60
+
+## How to Run
+```bash
+python grade_calculator.py
+
+
+
