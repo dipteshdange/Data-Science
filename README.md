@@ -65,7 +65,7 @@ From this project I learned:
 A screenshot of the program running is included in this repository.
 
 # Week 2
-# Student Grade Calculator 🎓
+# Student Grade Calculator 
 
 This Python program calculates student grades based on marks.
 
