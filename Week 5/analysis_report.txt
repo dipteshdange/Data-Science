@@ -1,0 +1,6 @@
+CUSTOMER SALES ANALYSIS REPORT
+
+Total Revenue: $12,365,048.00
+Total Customers: 500
+Average Order Value: $123,650.48
+Customer Retention Rate: 0.00%
